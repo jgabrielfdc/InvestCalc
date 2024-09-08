@@ -1,0 +1,10 @@
+C:\Users\authe\source\repos\Banco\bin\Release\Banco.exe.config
+C:\Users\authe\source\repos\Banco\bin\Release\Banco.exe
+C:\Users\authe\source\repos\Banco\bin\Release\Banco.pdb
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.csproj.AssemblyReference.cache
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.Form1.resources
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.Properties.Resources.resources
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.csproj.GenerateResource.cache
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.csproj.CoreCompileInputs.cache
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.exe
+C:\Users\authe\source\repos\Banco\obj\Release\Banco.pdb
